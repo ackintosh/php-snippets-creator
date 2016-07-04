@@ -1,0 +1,17 @@
+{
+  "name": "akihito1/php-snippets",
+  "require": {
+    "ackintosh/snidel": "*"
+  },
+  "authors": [
+    {
+      "name": "akihito.nakano",
+      "email": "sora.akatsuki@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ackintosh\\PHPSnippetCreator\\": "src/"
+    }
+  }
+}
